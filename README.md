@@ -2,7 +2,7 @@
 
 Se trata de un sistema web construido en PHP y MySQL.
 
-El autor original es Jon Mircha, (Jonahan Miranda Charles ).
+El autor original es Jon Mircha, (Jonahan Miranda).
 
 Mexflix se construyó a partir del patrón Modelo Vista Controlador (MVC), y mediante Programación Orientada a Objetos (POO).
 
